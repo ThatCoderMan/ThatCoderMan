@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img height="30" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"/>, my name is Artemii! 
   
-I am currently a beginner of Python developer </h1>
+I am currently a Python developer </h1>
 
 <h3 align="center">
 I'm passionate about programming and development, studying the backend on Python and write pet projects and practice my skills. 
